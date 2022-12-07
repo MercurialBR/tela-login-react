@@ -28,6 +28,7 @@ export const Title = styled.h1`
     font-size: 42px;
     font-weight: 700;
     color: #08AEEA;
+    align-self: center;
 `
 
 export const Row = styled.div`
