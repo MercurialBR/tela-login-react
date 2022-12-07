@@ -12,7 +12,8 @@ export default createGlobalStyle`
         font-family: 'Nunito', sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #81259D;
+        background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+        
     }
 
     input, button, textarea, h1, h2, h3, h4, h5, h6 {
